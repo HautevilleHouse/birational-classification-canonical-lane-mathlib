@@ -1,0 +1,7 @@
+-- This module is the root of the BirationalClassificationCanonicalLaneLean Lean proof package.
+import BirationalClassificationCanonicalLaneLean.Basic
+import BirationalClassificationCanonicalLaneLean.SourcePackage
+import BirationalClassificationCanonicalLaneLean.SourceDependencies
+import BirationalClassificationCanonicalLaneLean.Formalization
+import BirationalClassificationCanonicalLaneLean.ReviewerBridge
+import BirationalClassificationCanonicalLaneLean.TheoremStatement
